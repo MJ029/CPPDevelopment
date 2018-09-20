@@ -24,5 +24,8 @@
     <ClCompile Include="Arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="VariableSizedArrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -24,7 +24,7 @@ Constraints:
 #include <Windows.h>
 using namespace std;
 
-int main() {
+int array_main() {
 	int n, ar[10005];
 	cin >> n;
 	for (int i = 0; i < n; i++)cin >> ar[i];

@@ -118,6 +118,7 @@
     <ClCompile Include="Arrays.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="Pointer.cpp" />
+    <ClCompile Include="VariableSizedArrays.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
