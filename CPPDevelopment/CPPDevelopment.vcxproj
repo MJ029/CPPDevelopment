@@ -116,6 +116,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Arrays.cpp" />
+    <ClCompile Include="CheckDataSizeofMachine.cpp" />
+    <ClCompile Include="FirstProgram.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="VariableSizedArrays.cpp" />
